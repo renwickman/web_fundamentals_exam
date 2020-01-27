@@ -1,0 +1,179 @@
+.header {
+        background-color: #1a1a1a;
+        width: 970px;
+        height: 70px;
+    }
+.logo {
+    display: inline-block;
+    width: 350px;
+    height: 50px;
+}
+.call_us {
+    color: lightgrey;
+    font-weight: bolder;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin-left: 405px;
+    vertical-align: top;
+}
+.sleeping_woman {
+    /* display: inline-block; */
+    height: 350px;
+    width: 970px;
+    border-bottom: 10px solid slategrey;
+}
+.options {
+    background-color: grey;
+    width: 970px;
+}
+.features {
+    height: 200px;
+    width: 970px;
+    display: inline-block;
+    background-color: #1a1a1a;
+}
+.feature_box {
+    background-color: #1a1a1a;
+    display: inline-block;
+    height: 172px;
+    width: 239px;
+    vertical-align: top;
+    margin: 0px;
+    margin-top: 28px;
+}
+.icons {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    font-family: sans-serif;
+    color: white;
+    background-color: #1a1a1a;
+}
+.icon_descrip {
+    display: inline-block;
+    background-color: #1a1a1a;
+    color: white;
+    width: 173px;
+    height: 89px;
+    margin-left: 65px;
+}
+.buy_now {
+    height: 169px;
+    width: 970px;
+    padding-top: 10px;
+    background-color: #0b0b0b;
+}
+.buy_header {
+    font-size: x-large;
+    color: white;
+    margin-left: 34px;
+}
+.buy_message {
+    color: white;
+    width: 578px;
+    font-family: sans-serif;
+}
+.buy_descrip {
+    color: grey;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 37px;
+}
+button {
+    color: white;
+    background-color: orange;
+    font-size: large;
+    font-weight: bold;
+    height: 46px;
+    width: 125px;
+    display: inline-block;
+    margin-left: 811px;
+    margin-top: -51px;
+    vertical-align: top;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.portfolio {
+    width: 970px;
+    height: 120px;
+    background-color: #1a1a1a;
+}
+.portfolio_name {
+    color: white;
+    font-family: serif;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 34px;
+}
+.portfolio_header {
+    padding-top: 28px;
+    margin-top: 0px;
+    width: 970px;
+    height: 100px;
+    background-color: #1a1a1a;
+}
+.portfolio_descrip {
+    width: 214px;
+    height: 250px;
+    display: inline-block;
+    background-color: #1a1a1a;
+    margin-left: 18px;
+    vertical-align: top;
+}
+.portfolio_image {
+    width: 175px;
+    height: 100px;
+    border: solid 2px grey;
+    display: inline-block;
+}
+.portfolio_central {
+    width: 970px;
+    background-color: #1a1a1a;
+    height: 312px;
+}
+.orange_large {
+    font-family: Arial;
+    font-size: large;
+    color: orange;
+    margin-left: 22px;
+    background-color: #1a1a1a;
+    vertical-align: top;
+}
+.orange_small {
+    font-family: serif;
+    font-size: medium;
+    color: orange;
+    vertical-align: top;
+    font-weight: bold;
+}
+.view_all {
+    font-family: Arial;
+    font-size: medium;
+    color: orange;
+    font-style: italic;
+    margin-left: 792px;
+    display: inline-block;
+}
+.white_big {
+    color: white;
+    font-size: larger;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.white_descrip {
+    font-family: sans-serif;
+    color: white;
+    font-size: small;
+}
+.back_to_top {
+    width: 970px;
+    height: 19px;
+    color: gray;
+    font-family: sans-serif;
+    text-align: right;
+    font-size: small;
+    display: inline-block;
+    margin-top: 18px;
+    margin-left: -62px;
+}
